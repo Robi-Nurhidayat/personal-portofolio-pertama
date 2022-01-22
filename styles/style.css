@@ -1,3 +1,38 @@
 body {
-
+    text-align: center;
+    margin: 0;
 }
+
+
+.cloud-img-top{
+    width: 9.375rem;
+    position: absolute;
+    right: 31.25rem;
+    top: 10px;
+}
+
+.cloud-img-bottom {
+    width: 9.375rem;
+    position: absolute;
+    left: 31.25rem;
+}
+.top-container {
+    background-color: #B5EAEA;
+    position: relative;
+    padding-top: 150px;
+    box-sizing: border-box;
+}
+
+.top-container h1 {
+    margin: 0;
+    font-family:'Ephesis', cursive;
+    font-size: 5.625rem;
+}
+
+.top-container h2 {
+    font-family: 'Ephesis', cursive;
+    font-size: 2.813rem;
+}
+
+
+
