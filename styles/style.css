@@ -1,6 +1,7 @@
 body {
     text-align: center;
     margin: 0;
+    font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -35,4 +36,27 @@ body {
 }
 
 
+.middle-container {
+    padding-top: 50px;
+}
+
+.middle-container img {
+    width: 15%;
+}
+
+.middle-container p {
+    width: 50%;
+    margin: auto;
+    font-size: 30px;
+    line-height: 2;
+}
+
+
+hr {
+    margin-top: 60px;
+    border: dotted 30px #9D9D9D;
+    width: 5%;
+    border-bottom: none;
+    margin-bottom: 60px;
+}
 
