@@ -38,9 +38,10 @@ body {
 
 .middle-container {
     padding-top: 50px;
+    background-color: #F5F5F5;
 }
 
-.middle-container img {
+.middle-container .profile img {
     width: 15%;
 }
 
@@ -60,3 +61,36 @@ hr {
     margin-bottom: 60px;
 }
 
+
+.skill-row {
+    width: 70%;
+    margin: 100px auto;
+}
+
+.img-web {
+    width: 30%;
+    float: left;
+    margin-right: 60px;
+}
+.middle-container .skills .skill-row h3 {
+    text-align: left;
+}
+
+.middle-container .skills .skill-row p {
+    font-size: 20px;
+    text-align: left;
+}
+
+.skills h2 {
+    margin:100px 0;
+}
+
+.img-machine-learning {
+    width: 30%;
+    float: right;
+    margin-left: 10px;
+}
+
+.my-project {
+    margin-top: 200px;
+}
